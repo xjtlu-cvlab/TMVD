@@ -1,19 +1,4 @@
-@article{Qiu_2024_TMVD,
-
-title = "A Deep Top-down Framework towards Generalisable Multi-View Pedestrian Detection",
-
-author = "Rui Qiu and Ming Xu and Yuchen Ling and Smith, Jeremy S. and Yuyao Yan and Xinheng Wang",
-
-year = "2024",
-
-doi = "10.1016/j.neucom.2024.128458",
-
-volume = "607",
-
-journal = "Neurocomputing",
-
-issn = "0925-2312",
-}
+Qiu, R., Xu, M., Ling, Y., Smith, J. S., Yan, Y., & Wang, X. (2024). A Deep Top-down Framework towards Generalisable Multi-View Pedestrian Detection. Neurocomputing, 607, Article 128458. https://doi.org/10.1016/j.neucom.2024.128458
 
 
 Dependencies
