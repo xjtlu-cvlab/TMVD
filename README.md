@@ -1,13 +1,20 @@
 @article{Qiu_2024_TMVD,
 title = "A Deep Top-down Framework towards Generalisable Multi-View Pedestrian Detection",
+
 author = "Rui Qiu and Ming Xu and Yuchen Ling and Smith, Jeremy S. and Yuyao Yan and Xinheng Wang",
+
 year = "2024",
-month = aug,
+
+month = Aug,
+
 day = "22",
+
 doi = "10.1016/j.neucom.2024.128458",
-language = "English",
+
 volume = "607",
+
 journal = "Neurocomputing",
+
 issn = "0925-2312",
 }
 
@@ -24,8 +31,7 @@ matlab & matlabengine
 
 
 Data Preparation
-The datasets need to be downloaded from their official websites before running the
-program.
+The datasets need to be downloaded from their official websites before running the program.
 Wildtrack: https://www.epfl.ch/labs/cvlab/data/data-wildtrack/
 Multiviewx: https://github.com/hou-yz/MVDet/
 By default, all datasets are put in ~/Data/. The ~/Data/ folder should look like this Data
